@@ -1,0 +1,7 @@
+papers:
+https://arxiv.org/pdf/2002.05709.pdf
+
+libraries:
+http://www.scikit-video.org/stable/examples/io.html#ioexamplevideo
+
+notes:
